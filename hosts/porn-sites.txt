@@ -8352,7 +8352,11 @@
 127.0.0.1       www.ypmate.com
 127.0.0.1       www.zentastic.com
 127.0.0.1       youaresogay.com
-127.0.0.1       zentastic.com
+127.0.0.1       zentastic.com
+127.0.0.1       www.bigassphotos.com
+127.0.0.1       www.serviporno.com
+127.0.0.1       www.pornoperra.com
+127.0.0 1       www.pornoamateurvip.com
 #
 
 # That's all for now.
