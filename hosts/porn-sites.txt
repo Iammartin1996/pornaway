@@ -8352,7 +8352,18 @@
 127.0.0.1       www.ypmate.com
 127.0.0.1       www.zentastic.com
 127.0.0.1       youaresogay.com
-127.0.0.1       zentastic.com
+127.0.0.1       zentastic.com
+127.0.0.1       www.bigassphotos.com
+127.0.0.1       www.serviporno.com
+127.0.0.1       www.pornoperra.com
+127.0.0 1       www.pornoamateurvip.com
+127.0.0.1       www.muycerdas.xxx
+127.0.0.1       www.pajaslocas.com
+127.0.0.1       www.soho.co
+127.0.0.1       www.hotnudegirls.net
+127.0.0.1       www.kindgirls.com
+127.0.0.1       www.nudesexporn.com
+127.0.0.1       www.hdpornpictures.com
 #
 
 # That's all for now.
