@@ -8352,7 +8352,11 @@
 127.0.0.1       www.ypmate.com
 127.0.0.1       www.zentastic.com
 127.0.0.1       youaresogay.com
-127.0.0.1       zentastic.com
+127.0.0.1       zentastic.com
+127.0.0.1       packsricolinos2021.blogspot.com.co
+127.0.0.1       packsricolinos2017premiun.blogspot.com.co
+127.0.0.1       wap.baidu.com
+127.0.0.1       www.redzootube.com
 #
 
 # That's all for now.
