@@ -8353,6 +8353,10 @@
 127.0.0.1       www.zentastic.com
 127.0.0.1       youaresogay.com
 127.0.0.1       zentastic.com
+127.0.0.1       www.videosnudes.com
+127.0.0.1       putariaxxx.com
+127.0.0.1       www.novinhagozada.com
+127.0.0.1       www.safadasnaweb.com.br
 #
 
 # That's all for now.
