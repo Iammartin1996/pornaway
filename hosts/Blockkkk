@@ -1,0 +1,46 @@
+# PornAway blacklist
+# D̲i̲r̲e̲c̲t̲ ̲P̲o̲r̲n̲ ̲U̲R̲L̲ ̲F̲i̲l̲e̲ (see line 13, 14)
+
+# Get PornAway android app in XDA Developer Forum.
+# Last updated: 6 July, 2018.
+# Licensed under The MIT License.
+
+# Number of Unique URLs: 26000 [PORN DOMAINS ONLY]
+
+[̲̅P̲̅][̲̅o̲̅][̲̅r̲̅][̲̅n̲̅][̲̅A̲̅][̲̅w̲̅][̲̅a̲̅][̲̅y̲̅]
+
+# Additional source & thanks to: Clefspeare13 (github), Sinfonietta (github).
+# This list is all of  porn SITES. Enabling it will not block porn ads but only the origin sites. 
+# There's a different host file available for verified porn ads/trackers.
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1       www.mujeresdesnudas.com.ar
+127.0.0.1       putasdesnudos.com
+127.0.0.1       www.gatitasperversas.com
+127.0.0.1       seviporno.net
+127.0.0.1       www.pornoreino.com
+127.0.0.1       www.miracomofollo.com
+127.0.0.1       www.vice.com
+127.0.0.1       videosdeputas.xxx
+127.0.0.1       www.oral-amateure.com
+127.0.0.1       www.cam4.es
+127.0.0.1       www.chicasdesnudas.xxx
+127.0.0.1       guarrasdelporno.xxx
+127.0.0.1       tlgrm.es
+127.0.0.1       www.learnfreetoday.com
+127.0.0.1       badorno.xxx
+127.0.0.1       hdpornpictures.com
+127.0.0.1       sexpussynude.com
+127.0.0.1       www.bookoferotica.com
+127.0.0.1       www.finalteens.com
+127.0.0.1       www.hornynudegirls.com
+127.0.0.1       www.lamalinks.com
+127.0.0.1       www.newpornpictures.com
+127.0.0.1       www.peniscat.com
+127.0.0.1       www.teenpornstorage.biz
+#
+
+# Look up for the porn_ads file for porn-ads only domains.
+# That's all for now.
